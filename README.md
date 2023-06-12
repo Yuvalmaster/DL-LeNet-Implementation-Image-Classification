@@ -1,3 +1,5 @@
+# Deep Learning LeNet Neural Network Implementation for Image classification
+## Project Overview 
 This project implements the LeNet-5 model from scratch for the purpose of digit recognition on the MNIST dataset. 
 LeNet-5 is a convolutional neural network (CNN) architecture proposed by Yann LeCun et al. in 1998, and it has become a classic model for handwritten digit recognition. 
 The MNIST dataset is a widely-used benchmark dataset consisting of 60,000 training images and 10,000 testing images of handwritten digits from 0 to 9. 
